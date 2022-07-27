@@ -25,6 +25,9 @@
 .explore-bg{
     background-color: #F4FAFD;
 }
+.registration{
+    background-color: #289BDE;
+}
 
 @media screen and (max-width: 768px) {
   .one {
