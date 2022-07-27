@@ -22,6 +22,10 @@
   background-size: cover;
 }
 
+.explore-bg{
+    background-color: #F4FAFD;
+}
+
 @media screen and (max-width: 768px) {
   .one {
     height: 40vh;
