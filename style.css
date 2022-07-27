@@ -5,7 +5,6 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-
 .two {
   height: 50vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.623), rgba(0, 0, 0, 0.534)),
@@ -13,7 +12,6 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-
 .three {
   height: 50vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.623), rgba(0, 0, 0, 0.534)),
@@ -21,14 +19,22 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-
-.explore-bg{
-    background-color: #F4FAFD;
+.explore-bg {
+  background-color: #f4fafd;
 }
-.registration{
-    background-color: #289BDE;
+.registration {
+  background-color: #289bde;
 }
-
+.left {
+  left: 0px;
+  color: #289bde;
+  background-color: #dee8ee;
+}
+.right {
+  right: 0;
+  color: #289bde;
+  background-color: #7aa0f0a2;
+}
 @media screen and (max-width: 768px) {
   .one {
     height: 40vh;
