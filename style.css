@@ -35,7 +35,10 @@
   color: #289bde;
   background-color: #7aa0f0a2;
 }
-@media screen and (max-width: 768px) {
+.question {
+  width: 70%;
+}
+@media screen and (max-width: 992px) {
   .one {
     height: 40vh;
   }
@@ -44,5 +47,8 @@
   }
   .three {
     height: 40vh;
+  }
+  .question {
+    width: 100%;
   }
 }
